@@ -1,4 +1,4 @@
-Sphere effect made with threejs
+Interactive, scrollable, and moveable sphere effect made with threejs
 
 
 
