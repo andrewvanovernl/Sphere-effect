@@ -1,8 +1,1 @@
-# 
-
-
-
-Sphere-effect!
-
-
-[Screenshot (274)](https://user-images.githubusercontent.com/107311665/207356216-c984e689-6205-4621-907c-2cd0f0c337d2.png)
+![Screenshot (274)](https://user-images.githubusercontent.com/107311665/207356282-c2fe8707-9d3d-465d-aba0-ef956a2a8472.png)
