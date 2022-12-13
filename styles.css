@@ -1,0 +1,14 @@
+@import "https://fonts.googleapis.com/css2?family=Megrim&display=swap";
+body{
+  overflow: hidden;
+  margin: 0;
+}
+#word{
+  font-family: Gothic, ;
+  font-size: 20vh;
+  position: absolute;
+  margin: 10;
+  /*bottom: 0;*/
+  color: rgb(8, 7, 0);
+  -webkit-text-stroke: 0.15vh #c0f;
+}
